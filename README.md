@@ -1,2 +1,15 @@
 # weektechPHP
-Na Week Tech PHP será implementado um projeto com o PHP e as tecnologias WEB. As tecnologias web são: HTML, CSS e JavaScript. O projeto será implementado com integração do PHP com sistema de pagamento e sistema de login. Para finalizar será realizado o deploy da aplicação.
+Na Week Tech PHP será implementado um projeto com o PHP e será integrado com o sistema de pagamento PicPay para E-commerce.
+
+## Tecnologias
+- HTML5
+- CSS3
+- JS
+- PHP
+- MYSQL
+- PDO
+- API PicPay
+
+## Links
+- Acesse https://lojista.picpay.com/ para pegar o TOKEN da conta e inserir na aplicação para funcionar.
+- DOC PicPay https://studio.picpay.com/docs/e-commerce
